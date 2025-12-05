@@ -185,3 +185,5 @@ tmp/
 temp/
 *.tmp
 
+# Vector DB
+vector_db/
